@@ -1,4 +1,5 @@
 # the-aarch64-2
+<p><img src="https://fnlqxz.my.id/asset/frieren-arm.jpg" width="330px" height=425px"/></p>
 small ELF aarch64 example
 <p>Cara compile:</p>
 <p><pre>
